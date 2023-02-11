@@ -16,8 +16,8 @@ LEVELS:
   - Extra random level for each of the 3 difficulty levels (EASY, MEDIUM, HARD).
  
 CONTROLS:
-  - A - Speed Up
-  - B - Slow Down
+  - A - Speed Up (0 - 5)
+  - B - Slow Down (0 - 5)
   - Left - move car to left
   - Right - move car to right
   - Up - change track up
