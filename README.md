@@ -2,6 +2,7 @@
 Street Racer - Arduboy game
 
 10 different types of vehicles.
+
 Fast game to break records.
 
 4 GAME MODES:
@@ -16,13 +17,13 @@ LEVELS:
   
 
 CONTROLS:
-  A - Speed Up
-  B - Speed Down
-  Left - move car to left
-  Right - move car to right
-  Up - change track up
-  Down - change track down
-  A + B - quite the game and return to the menu
+  - A - Speed Up
+  - B - Speed Down
+  - Left - move car to left
+  - Right - move car to right
+  - Up - change track up
+  - Down - change track down
+  - A + B - quite the game and return to the menu
 
 RULES:
   - faster - more points
