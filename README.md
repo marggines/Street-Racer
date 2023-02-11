@@ -29,4 +29,4 @@ RULES:
   - track higher - more points
   - you stop - points decrease
   - on track 0 - points decrease if you stop or drive at a speed below 2
-  - you crash the car - 1000 points subtract
+  - car crash - 1000 points less
