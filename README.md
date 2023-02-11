@@ -14,11 +14,10 @@ Fast game to break records.
 LEVELS:
   - 10 levels for each of the 3 difficulty levels (EASY, MEDIUM, HARD).
   - Extra random level for each of the 3 difficulty levels (EASY, MEDIUM, HARD).
-  
-
+ 
 CONTROLS:
   - A - Speed Up
-  - B - Speed Down
+  - B - Slow Down
   - Left - move car to left
   - Right - move car to right
   - Up - change track up
